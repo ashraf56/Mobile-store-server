@@ -178,5 +178,50 @@
         "memory": "8GB RAM, 128GB Storage",
         "os": "Android 10",
         "price": 999.99
+      },
+      {
+        "id": 21,
+        "name": "Motorola Edge (2022)",
+        "type": "Smartphone",
+        "processor": "Snapdragon 870",
+        "memory": "6GB RAM, 128GB Storage",
+        "os": "Android 12",
+        "price": 599.99
+      },
+      {
+        "id": 22,
+        "name": "Nokia X20",
+        "type": "Smartphone",
+        "processor": "Snapdragon 480",
+        "memory": "4GB RAM, 64GB Storage",
+        "os": "Android 11",
+        "price": 349.99
+      },
+      {
+        "id": 23,
+        "name": "Sony Xperia 5 III",
+        "type": "Smartphone",
+        "processor": "Snapdragon 888",
+        "memory": "8GB RAM, 256GB Storage",
+        "os": "Android 11",
+        "price": 1099.99
+      },
+      {
+        "id": 24,
+        "name": "Samsung Galaxy A52s",
+        "type": "Smartphone",
+        "processor": "Snapdragon 778G",
+        "memory": "6GB RAM, 128GB Storage",
+        "os": "Android 11",
+        "price": 499.99
+      },
+      {
+        "id": 25,
+        "name": "OnePlus 10",
+        "type": "Smartphone",
+        "processor": "Snapdragon 8cx",
+        "memory": "12GB RAM, 256GB Storage",
+        "os": "OxygenOS (Android 12)",
+        "price": 899.99
       }
 ]
