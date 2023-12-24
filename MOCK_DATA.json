@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "name": "Samsung Galaxy S21",
+        "type": "Smartphone",
+        "processor": "Exynos 2100",
+        "memory": "8GB RAM, 128GB Storage",
+        "os": "Android 11",
+        "price": 799.99
+    },
+    {
+        "id": 2,
+        "name": "iPhone 13",
+        "type": "Smartphone",
+        "processor": "A15 Bionic",
+        "memory": "6GB RAM, 128GB Storage",
+        "os": "iOS 15",
+        "price": 899.99
+    },
+    {
+        "id": 3,
+        "name": "Google Pixel 6",
+        "type": "Smartphone",
+        "processor": "Google Tensor",
+        "memory": "6GB RAM, 128GB Storage",
+        "os": "Android 12",
+        "price": 699.99
+    },
+    {
+        "id": 4,
+        "name": "OnePlus 9",
+        "type": "Smartphone",
+        "processor": "Snapdragon 888",
+        "memory": "8GB RAM, 256GB Storage",
+        "os": "OxygenOS (Android 11)",
+        "price": 749.99
+    },
+    {
+        "id": 5,
+        "name": "Xiaomi Mi 11",
+        "type": "Smartphone",
+        "processor": "Snapdragon 888",
+        "memory": "12GB RAM, 256GB Storage",
+        "os": "MIUI 12 (Android 11)",
+        "price": 699.99
+    },
+    {
+        "id": 6,
+        "name": "Sony Xperia 1 III",
+        "type": "Smartphone",
+        "processor": "Snapdragon 888",
+        "memory": "12GB RAM, 256GB Storage",
+        "os": "Android 11",
+        "price": 1099.99
+    },
+    {
+        "id": 7,
+        "name": "LG Velvet",
+        "type": "Smartphone",
+        "processor": "Snapdragon 765G",
+        "memory": "6GB RAM, 128GB Storage",
+        "os": "Android 10",
+        "price": 499.99
+    },
+    {
+        "id": 8,
+        "name": "Motorola Moto G Power (2021)",
+        "type": "Smartphone",
+        "processor": "Snapdragon 662",
+        "memory": "4GB RAM, 64GB Storage",
+        "os": "Android 10",
+        "price": 199.99
+    },
+    {
+        "id": 9,
+        "name": "Asus ROG Phone 5",
+        "type": "Gaming Smartphone",
+        "processor": "Snapdragon 888",
+        "memory": "16GB RAM, 256GB Storage",
+        "os": "ROG UI (Android 11)",
+        "price": 1299.99
+    },
+    {
+        "id": 10,
+        "name": "Huawei P40 Pro",
+        "type": "Smartphone",
+        "processor": "Kirin 990",
+        "memory": "8GB RAM, 256GB Storage",
+        "os": "EMUI 10 (Android 10)",
+        "price": 899.99
+    },
+    {
+        "id": 11,
+        "name": "OnePlus Nord 2",
+        "type": "Smartphone",
+        "processor": "MediaTek Dimensity 1200",
+        "memory": "8GB RAM, 128GB Storage",
+        "os": "OxygenOS (Android 11)",
+        "price": 499.99
+    },
+    {
+        "id": 12,
+        "name": "Google Pixel 5a",
+        "type": "Smartphone",
+        "processor": "Snapdragon 765G",
+        "memory": "6GB RAM, 128GB Storage",
+        "os": "Android 11",
+        "price": 449.99
+    },
+    {
+        "id": 13,
+        "name": "Samsung Galaxy Z Fold 3",
+        "type": "Foldable Smartphone",
+        "processor": "Snapdragon 888",
+        "memory": "12GB RAM, 256GB Storage",
+        "os": "Android 11",
+        "price": 1799.99
+    },
+    {
+        "id": 14,
+        "name": "Apple iPhone SE (2022)",
+        "type": "Smartphone",
+        "processor": "A16 Bionic",
+        "memory": "4GB RAM, 64GB Storage",
+        "os": "iOS 16",
+        "price": 499.99
+    },
+    {
+        "id": 15,
+        "name": "Xiaomi Redmi Note 10 Pro",
+        "type": "Smartphone",
+        "processor": "Snapdragon 732G",
+        "memory": "6GB RAM, 128GB Storage",
+        "os": "MIUI 12 (Android 11)",
+        "price": 279.99
+    },
+    {
+        "id": 16,
+        "name": "Sony Xperia Pro",
+        "type": "Professional Smartphone",
+        "processor": "Snapdragon 865",
+        "memory": "12GB RAM, 512GB Storage",
+        "os": "Android 10",
+        "price": 2299.99
+      },
+      {
+        "id": 17,
+        "name": "BlackBerry Key2",
+        "type": "Business Smartphone",
+        "processor": "Snapdragon 660",
+        "memory": "6GB RAM, 128GB Storage",
+        "os": "Android 8.1",
+        "price": 699.99
+      },
+      {
+        "id": 18,
+        "name": "Cat S62 Pro",
+        "type": "Rugged Smartphone",
+        "processor": "Snapdragon 660",
+        "memory": "6GB RAM, 128GB Storage",
+        "os": "Android 10",
+        "price": 749.99
+      },
+      {
+        "id": 19,
+        "name": "Fairphone 4",
+        "type": "Sustainable Smartphone",
+        "processor": "Snapdragon 750G",
+        "memory": "6GB RAM, 128GB Storage",
+        "os": "Fairphone OS (Android 11)",
+        "price": 549.99
+      },
+      {
+        "id": 20,
+        "name": "LG Wing",
+        "type": "Swivel Smartphone",
+        "processor": "Snapdragon 765G",
+        "memory": "8GB RAM, 128GB Storage",
+        "os": "Android 10",
+        "price": 999.99
+      }
+]
